@@ -1,4 +1,4 @@
-## Making a Project Website
+## The Website for 516X Final Project
 
 ### Configuration variables
 
