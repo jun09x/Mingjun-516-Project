@@ -1,4 +1,4 @@
-## The Website for 516X Final Project
+## The Website for 516X Project
 
 ### Configuration variables
 
