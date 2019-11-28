@@ -1,6 +1,6 @@
-## The Website for 516X Project
+## Data analysis for Dog and Cat food manufacturering LCA results
 
-### Configuration variables
+### Introduction of the project
 
 This instruction is specific to the slate theme but should translate well to other themes.  You can change default variables in your website build by making changes in your `_config.yml` file:
 
